@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+my name is bushra
+## Grouth mindset
+DEfenetion of Grouth Mindset: it is to see the smallest issues as good as much.also, the challenges or barries from any asspect of your life can't stop me and that barries to be a good for my success.if you want to be on the top you have to face many problemes to achive your success in great job in addition be positive as you can.
 
-You can use the [editor on GitHub](https://github.com/Bushra97-ad/learning-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Bushra97-ad/learning-journal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## How can I make myself growth mindset:
+1- be positive
+2-have  a pation to learn from my mistake3-be funny
