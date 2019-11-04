@@ -6,3 +6,4 @@ Definition of Grouth Mindset: it is to see the smallest issues as good as much.a
 1. *be positive*
 2. have  a *pation* to learn from my mistake
 3. *be funny*
+4. "be or not be"
